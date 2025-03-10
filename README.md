@@ -51,7 +51,7 @@ options:
 ## Example Commands
 ### **Fetch Papers with a Query**
 ```sh
-poetry run python main.py papers --query 'cancer research' --max 10 --file results.csv
+poetry run python main.py papers --query 'cancer research' --max 10 --file results
 ```
 
 ### **Enable Debugging Mode**
